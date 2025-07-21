@@ -80,7 +80,7 @@ function testClaseEdificio() {
     deptos.length == 3 &&
     deptos[2].getName() == "depto tres"
   ) {
-    console.log("testClaseBandaApartment passed okey");
+    console.log("testClaseBandaApartment passed");
   } else {
     throw "testClaseBandaApartment not passed";
   }
